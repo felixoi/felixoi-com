@@ -2,7 +2,7 @@ name = "website"
 type = "javascript"
 account_id = ""
 workers_dev = false
-route = "felixoi.com"
+route = "felixoi.com/*"
 compatibility_date = "2021-10-19"
 
 [site]
