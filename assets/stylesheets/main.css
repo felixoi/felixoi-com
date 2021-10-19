@@ -1,0 +1,58 @@
+body, html {
+    height: 100%
+}
+
+.Aligner {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100%;
+    margin: 0;
+    background: #00142a
+}
+
+.Aligner-item {
+    margin: 0 auto;
+    text-align: center
+}
+
+img {
+    padding-left: 4rem;
+    padding-right: 4rem;
+    width: 150px;
+    height: auto;
+    background: #fff
+}
+
+.text {
+    margin-top: 4rem;
+    color: #fff;
+    font-weight: 700;
+    font-size: 3rem;
+    text-transform: lowercase;
+    font-family: Nunito, sans-serif
+}
+
+@media (min-width: 576px) {
+    img {
+        width: 200px
+    }
+}
+
+@media (min-width: 768px) {
+    img {
+        width: 250px
+    }
+}
+
+@media (min-width: 992px) {
+    img {
+        width: 300px
+    }
+}
+
+@media (min-width: 1200px) {
+    img {
+        width: 350px
+    }
+}
