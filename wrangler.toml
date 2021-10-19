@@ -3,7 +3,6 @@ type = "javascript"
 account_id = ""
 workers_dev = false
 route = "felixoi.com"
-zone_id = ""
 compatibility_date = "2021-10-19"
 
 [site]
