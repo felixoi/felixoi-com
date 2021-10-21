@@ -11,6 +11,14 @@
 export default {
   setup () {
     useMeta({
+      title: 'felixoi.com',
+      meta: [
+        {
+          hid: 'description',
+          name: 'description',
+          content: 'felixoi\'s personal website'
+        }
+      ],
       bodyAttrs: {
         class: 'Aligner'
       },
