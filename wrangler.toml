@@ -6,9 +6,9 @@ route = "felixoi.com/*"
 compatibility_date = "2021-10-19"
 
 [site]
-bucket = ".output/public"
-entry-point = ".output"
+bucket = "./.output/public"
+entry-point = "./.output"
 
 [build]
-command = "NITRO_PRESET=cloudflare yarn nuxt build"
+command = "true"
 upload.format = "service-worker"
