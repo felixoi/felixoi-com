@@ -24,13 +24,16 @@ img {
     background: #fff
 }
 
+.text-container {
+    margin-top: 2rem;
+}
+
 .text {
-    margin-top: 4rem;
-    color: #fff;
+    color: #c6c6c6;
     font-weight: 700;
-    font-size: 3rem;
-    text-transform: lowercase;
-    font-family: Nunito, sans-serif
+    font-size: 1rem;
+    font-family: Nunito, sans-serif;
+    text-decoration: none;
 }
 
 @media (min-width: 576px) {

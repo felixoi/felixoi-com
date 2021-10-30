@@ -2,7 +2,9 @@
   <div class="Aligner-item">
     <div>
       <img alt="Avatar" src="~assets/images/avatar.svg" />
-      <div class="text">Coming Soon</div>
+      <div class="text-container">
+        <a class="text" href="/pgp.txt">[ PGP ]</a>
+      </div>
     </div>
   </div>
 </template>
