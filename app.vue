@@ -12,7 +12,7 @@
 <script>
 export default {
   setup () {
-    useMeta({
+    useHead({
       title: 'felixoi.com',
       meta: [
         {
