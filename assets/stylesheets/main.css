@@ -17,8 +17,6 @@ body, html {
 }
 
 img {
-    padding-left: 4rem;
-    padding-right: 4rem;
     width: 150px;
     height: auto;
     background: #fff
