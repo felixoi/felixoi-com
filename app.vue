@@ -1,7 +1,7 @@
 <template>
   <div class="Aligner-item">
     <div>
-      <img alt="Avatar" src="~assets/images/avatar.svg" />
+      <img alt="Avatar" src="~assets/images/avatar.jpg" />
       <div class="text-container">
         <a class="text" href="/pgp.txt">[ PGP ]</a>
       </div>
